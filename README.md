@@ -22,8 +22,9 @@ This repository contains C programs related to the MSc: "Applied Bioinformatics 
 
     5. **Loop or Exit:**
 - After processing one DNA sequence, the program prompts the user to input another valid DNA sequence or exit by pressing Ctrl+C.
-
+- 
           ## How to Use:
+
             1. **Compile the Code:**
                - Compile the program using a C compiler (e.g. `gcc`)
             2. **Run the Executable:**
