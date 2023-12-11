@@ -4,7 +4,7 @@ This repository contains C programs related to the MSc: "Applied Bioinformatics 
 
 ## Directories:
 
-- **Cprogs_1_2:** , **Cprogs_3:** , **Cprogs_4:** Programs related to lectures.
+- **Cprogs_1_2** , **Cprogs_3** , **Cprogs_4** : Programs related to lectures.
 
 - **final_proj:** The `final_proj` directory contains a program that identifies coding sequences.
   Specifically:
