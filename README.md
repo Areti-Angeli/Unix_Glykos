@@ -7,6 +7,8 @@ This repository contains C programs related to the MSc: "Applied Bioinformatics 
 - **Cprogs_1_2** , **Cprogs_3** , **Cprogs_4** : Programs related to lectures.
 
 - **final_proj:** The `final_proj` directory contains a program that identifies coding sequences.
+
+## final_proj :
   Specifically:
    1. **Input DNA Sequence:**
 - The program starts by prompting the user to input a valid DNA sequence.
