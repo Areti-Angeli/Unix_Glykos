@@ -15,7 +15,7 @@ This repository contains C programs related to the MSc: "Applied Bioinformatics 
 - The program checks if the DNA sequence is valid, ensuring that it contains only the           characters A, T, G, and C (case-insensitive). If invalid bases are found, an error              message is displayed: "Invalid DNA sequence".
 
     3. **Coding Sequence Identification:**
-- If the sequence is valid, the program searches for coding sequences that start with "ATG"     (or "atg"). It then examines subsequent triplets, looking for stop codons ("TAA," "TAG,"        "TGA," "taa," "tag," "tga"). If a coding sequence is found, the program prints the             starting position and the position of the stop codon.
+- If the sequence is valid, the program searches for coding sequences that start with "ATG"     (or "atg"). It then examines subsequent triplets, looking for stop codons ("TAA," "TAG,"        "TGA," "taa," "tag," "tga"). If a coding sequence is found, the program prints the position of the start codon and the position of the stop codon.
 
     4. **Summary:**
 - If coding sequences are found, the program provides a summary of the identified coding sequences. If no coding sequences are found, it displays a message indicating that it "Couldn't find a coding sequence".
