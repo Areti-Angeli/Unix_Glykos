@@ -10,6 +10,7 @@ This repository contains C programs related to the MSc: "Applied Bioinformatics 
 
 ## final_proj :
   Specifically:
+  
     i. **Input DNA Sequence:**
 - The program starts by prompting the user to input a valid DNA sequence.
 
